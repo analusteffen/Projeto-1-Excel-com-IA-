@@ -8,3 +8,5 @@ Apos isso criamos um Simulador de patrimonio e de cenarios, onde atraves de form
 Adicionamos variaveis e nomeamos intervalos para melhor viasulização do projeto.
 
 E por ultimo focamos no visual do projeto para melhor conforto dos usuarios ao utilizarem nossa tabela.
+
+(Projeto feito e realizado exatamente como nos videos de ensino do curso.)
